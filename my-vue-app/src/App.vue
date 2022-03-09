@@ -7,8 +7,8 @@
         </router-link>
       </li>
       <li class="nav-item">
-        <router-link to="/about" class="nav-link">
-          About
+        <router-link to="/viajes" class="nav-link">
+          Viajes
         </router-link>
       </li>
     </ul>
